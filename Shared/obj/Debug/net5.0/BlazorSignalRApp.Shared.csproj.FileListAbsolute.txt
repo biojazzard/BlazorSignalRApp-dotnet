@@ -1,0 +1,12 @@
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.deps.json
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.dll
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/bin/Debug/net5.0/ref/BlazorSignalRApp.Shared.dll
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/bin/Debug/net5.0/BlazorSignalRApp.Shared.pdb
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.csprojAssemblyReference.cache
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.AssemblyInfoInputs.cache
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.AssemblyInfo.cs
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.dll
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/ref/BlazorSignalRApp.Shared.dll
+/Users/tallerdelsoho/Projects/dotnet/BlazorSignalRApp/Shared/obj/Debug/net5.0/BlazorSignalRApp.Shared.pdb
